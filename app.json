@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "contacts",
-    "slug": "contacts",
+    "slug": "401d48-contacts",
+    "owner": "rkgallaway",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
